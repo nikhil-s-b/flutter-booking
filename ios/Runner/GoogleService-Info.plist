@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>684551153259-hpakqvn6qak7mllrdv40r4vprhe77v8u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.684551153259-hpakqvn6qak7mllrdv40r4vprhe77v8u</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA9ZBB_uyrQ-WZB_21kijd7YBxCTII4EGY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>684551153259</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.nikhil.hotelBooking</string>
+	<key>PROJECT_ID</key>
+	<string>nikhil-s-hotel-booking</string>
+	<key>STORAGE_BUCKET</key>
+	<string>nikhil-s-hotel-booking.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:684551153259:ios:dc0372db1ce001e137b32e</string>
+</dict>
+</plist>

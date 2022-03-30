@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "684551153259",
+    "project_id": "nikhil-s-hotel-booking",
+    "storage_bucket": "nikhil-s-hotel-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684551153259:android:b84a5f1bf0276b9737b32e",
+        "android_client_info": {
+          "package_name": "com.example.booking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684551153259-3htn7s64epluitb8dk72iv841p3vlknt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBj3XWiT7lQLZ4_hP1tRrLTnF-KSUXR9Uk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684551153259-3htn7s64epluitb8dk72iv841p3vlknt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "684551153259-hpakqvn6qak7mllrdv40r4vprhe77v8u.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.nikhil.hotelBooking"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
